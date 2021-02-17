@@ -13,7 +13,7 @@
   - Null processing
 - Feature selection
   - filter method
-   -   correlation with target
+    -   correlation with target
    -   pairwise correlation
    -   variance threshold
   - warpper method
