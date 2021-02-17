@@ -13,14 +13,14 @@
   - Null processing
 - Feature selection
   - filter method
-   - correlation with target
-   - pairwise correlation
-   - variance threshold
+   -   correlation with target
+   -   pairwise correlation
+   -   variance threshold
   - warpper method
-   - feature importance via permutation importance
-   - adversarial validation
+   -   feature importance via permutation importance
+   -   adversarial validation
   - embedded method
-   - decision tree embedded feature importance - lightgbm
+   -   decision tree embedded feature importance - lightgbm
 - feature extraction
   - label encoding
   - onehot encoding
