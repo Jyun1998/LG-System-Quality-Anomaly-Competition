@@ -1,5 +1,5 @@
 # LG-System-Quality-Anomaly-Competition
-
+### contacting LG AI Research if I could post the code on github
 ## Topic
 - Analyzed 16M unidentified system log records Jan 2021
 - Predicted inconvenience of users from system quality changes
